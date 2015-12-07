@@ -1,0 +1,12 @@
+---
+layout: page_with_outer_heading
+title: Publication
+
+---
+
+<div>
+{% for post in site.categories.publication %}
+
+    {% include teaser.html %}
+  {% endfor %}
+</div>

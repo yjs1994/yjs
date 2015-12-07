@@ -1,0 +1,47 @@
+// Place your custom code here...
+
+.bio-content {
+
+	padding: 1em .5em;
+	overflow-x: hidden;
+
+	.post-title-link {
+		color: black;
+		h1 {
+			margin: 0;
+		}
+		&:hover {
+			color: $post-title-hover-color;
+		}
+	}
+
+	&.full-width {
+		width: 100%;
+	}
+
+	@include breakpoint(medium) {
+		width: 80%;
+		margin:0 auto;
+	}
+
+} 
+
+.font1 {
+	font-size: 2.5em;
+}
+
+.font2{
+	font-size: 1.8em;
+}
+
+.font3{
+	font-size: 1.5em;
+}
+
+.para{
+	text-indent:2em
+}
+
+.color1{
+	color:#00BFFF ;
+}

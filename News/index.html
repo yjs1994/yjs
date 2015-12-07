@@ -1,0 +1,13 @@
+---
+layout: page_with_outer_heading
+title  :  News
+---
+
+
+
+  {% for post in site.categories.news %}
+
+    {% include teaser.html %}
+  {% endfor %}
+
+

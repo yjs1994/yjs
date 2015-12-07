@@ -1,0 +1,25 @@
+<aside class="site-sidebar">
+
+	<div class="module">
+          <img src="/images/tsinghua.jpg" alt="Logo alt text">
+	</div>
+
+	<div class="module">
+		<header class="block-module-header">
+			<h2>
+				<div>
+				</div>
+				introduction
+			</h2>
+		</header>
+		<div class="module-body">
+			<p>
+				<br>Associate Professor</br>
+                                <br>Department</br>
+                                <br>PH.D.</br>
+                                <br>B.S.</br>
+			</p>
+		</div>
+	</div>
+
+</aside>

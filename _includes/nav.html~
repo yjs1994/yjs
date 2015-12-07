@@ -1,0 +1,82 @@
+<nav class="site-nav" {height:25px;   
+  line-height:25px;   
+  overflow:hidden; }>
+
+  <ul >
+
+    <li>
+      <a href="/"> <!-- Place the link inside the double quotes -->
+        Home <!-- The text of the link -->
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+    <li>
+      <a href="/News"> <!-- Place the link inside the double quotes -->
+        News<!-- The text of the link -->
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+    <li>
+      <a href="/Research">
+        Research
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+    <li>
+      <a href="/People">
+        People
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+     <li>
+      <a href="/Publication">
+        Publication
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+    <li>
+      <a href="/Courses">
+        Courses
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+    <li>
+      <a href="/contact">
+        Contact
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+
+  <li>
+      <a href="/Acknowlegement">
+        Acknowlegement
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+    <li>
+      <a href="/404">
+        404
+        <div class="border1"></div>
+        <div class="border2"></div>
+      </a>
+    </li>
+
+  </ul>
+
+</nav>

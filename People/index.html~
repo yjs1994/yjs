@@ -1,0 +1,10 @@
+---
+layout: default
+title: People
+---
+
+
+
+{% for post in site.tags.main %}
+  {% include teaser.html %}
+{% endfor %}

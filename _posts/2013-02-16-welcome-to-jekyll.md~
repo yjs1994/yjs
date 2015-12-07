@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Short Bio"
+date:   2015-10-16 18:19:27
+tags: main
+permalink: welcome-to-jekyll
+---
+
+
+Prof. Liu received his B.S., M.S. and Ph.D. degrees from Electronic Engineering Department, Tsinghua
+University in 1999, 2002, and 2007. He worked as a Research Assistant in Circuit and System
+Divisions in Tsinghua University from 2002 to 2004. (Referred to CV) His main research interests
+include: Embedded System, Nonvolatile Computing, Electronics Design Automation and Power/Thermal
+Aware VLSI Design and Test.  Our group currently focuses on High Performance Low Power circuit
+device, chip architecture and system design methodology on next generation computing applications,
+specifically including the following fields:
+
+-  [Ultra Low Power Circuit, Architecture and Protocol for Wireless Sensor Node][Link1]
+-  Nonvolatile Computing
+-  Novel Design Techniques for Embedded Systems
+-  Power Efficient Architecture (Heterogeneous MPSoC) for Software Defined Radio
+-  Thermal Aware MPSoC Design and Test
+
+
+[link1]:      http://jekyllrb.com
+

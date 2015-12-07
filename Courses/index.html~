@@ -1,0 +1,13 @@
+---
+layout: page
+title: Courses
+---
+
+<div class="archives">
+
+  {% for post in site.tags.news %}
+
+    {% include teaser.html %}
+  {% endfor %}
+
+</div>

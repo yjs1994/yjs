@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "test 00001-html5"
+date:   2015-09-25 18:19:27
+categories: news
+
+---
+
+- Distraction-free reading. The sidebar goes to the bottom while on posts and pages.
+- 4 additional color scheme presets. Apply them by changing a single word in the code.
+- By the power of Sass variables, you can apply your own color schemes.
+- Github Pages ready. No extra plugins are installed

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  ""
+date:   2015-09-16 18:19:27
+tags: acknowlegement
+---
+
+- Sponsors?
+- co-wokers?
+
+
+- Copyright statement of this website
+<br>this website is adapted from <a href="http://jekyllthemes.org/themes/yellowblue/">"Yellowblue"</a> at <a href="https://github.com/chalatz/yellowblue">github</a>
+<br>"Yellowblue" is designed by <a href="https://twitter.com/chalatz" title="Christos Alatzas twitter page">Christos Alatzas</a>, powered by <a href="http://www.jekyllrb.com" target="_blank">Jekyll</a>
+<br>
+		
+

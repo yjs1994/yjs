@@ -3,7 +3,7 @@ title: Yongpan Liu's Homepage
 email: yjs1994@163.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. 
-baseurl: "/yjs/" # the subpath of your site, e.g. /blog/
+baseurl: "/yjs" # the subpath of your site, e.g. /blog/
 url: "http://yjs1994.github.io/yjs/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  yjs1994

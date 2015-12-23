@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongpan Liu&#39;s Homepage</title>
+    <description>Write an awesome description for your new site here. 
+</description>
+    <link>http://yjs1994.github.io/yjs//yjs//</link>
+    <atom:link href="http://yjs1994.github.io/yjs//yjs//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 23 Dec 2015 09:49:11 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2015 09:49:11 +0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;div class=&quot;site-sidebar&quot;&gt;
+          &lt;img src=&quot;/images/yongpanliu.jpeg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;font1&quot;&gt;Yongpan Liu （刘勇攀）&lt;/div&gt;
+&lt;div class=&quot;bio-content&quot;&gt;
+&lt;div class=&quot;font2&quot;&gt;&lt;strong&gt; Associate Professor&lt;/strong&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;
+	&lt;div class=&quot;font3&quot;&gt;
+		Dept. of Electronic Engineering&lt;br /&gt;
+		Tsinghua University
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 03 Nov 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//2015/11/03/photo.html</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//2015/11/03/photo.html</guid>
+        
+        <category>main</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Short Bio</title>
+        <description>&lt;div class=&quot;para&quot;&gt;Dr. Yongpan Liu is an associate professor in Dept. Of Electronic Engineering, Tsinghua University. His research is supported by NSFC, 863, 973 Program and Industry Companies such as Intel, Rohm, Huawei and so on. He has published over 50 peer-reviewed conference and journal papers and led over 6 SoC design projects for sensor applications and has received the ISLPED2012/2013 Design Contest Award and several Best Paper Candidates. He is an IEEE, ACM and IEICE member and has been invited to serve on several conference technical program committees (DAC, ASP-DAC, ISLPED, ICCD, A-SSCC, etc.).&lt;div&gt;
+&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sun, 18 Oct 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//Bio</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//Bio</guid>
+        
+        <category>main</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Research Interests</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Smart Sensor and Wearable Device&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Research&quot;&gt;Nonvolatile Memory and Computing System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Circuit and System Based on Emerging Devices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 17 Oct 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//Research Interests</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//Research Interests</guid>
+        
+        <category>main</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Highlight News</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;we have no news ready now&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//2015/09/26/highlightnews.html</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//2015/09/26/highlightnews.html</guid>
+        
+        <category>main</category>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Smart Sensor and Wearable Device&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/Research&quot;&gt;Nonvolatile Memory and Computing System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Circuit and System Based on Emerging Devices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 17 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//2015/09/17/research.html</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//2015/09/17/research.html</guid>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Storage-less and Converter-less Photovoltaic Energy Harvesting with Maximum Power Point Tracking for Internet of Things&lt;/div&gt;
+    &lt;p&gt;Wang, Y.; Liu, Y.; Wang, C.; Li, Z.; Sheng, X.; Lee, H.G.; Chang, N.; Yang, H. TCAD: 2015
+&lt;a href=&quot;/files/Storage-less and Converter-less Photovoltaic Energy Harvesting with Maximum Power Point Tracking for Internet of Things.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Self-powered Wearable Sensor Node Challenges and Opportunities&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Hehe Li, Xueqing Li, Jason Chun Xue, Yuan Xie, Huazhong. CASES: 2015
+&lt;a href=&quot;/files/Self-powered Wearable Sensor Node Challenges and Opportunities.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Multistage Function Speculation Adders&lt;/div&gt;
+    &lt;p&gt;Yinan Sun, Yongpan Liu, Zhibo Wang, Huazhong Yang. IEICE TRANS. FUNDAMENTALS: 2015, VOL.E98–A, NO.4 
+&lt;a href=&quot;/files/Multistage Function Speculation Adders.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Leveraging Emerging Nonvolatile Memory in High-Level Synthesis with Loop Transformations&lt;/div&gt;
+    &lt;p&gt;Shuangchen Li, Ang Li, Yuan Zhe, Yongpan Liu, Peng Li, Guangyu Sun, Yu Wang, Huazhong Yang, Yuan Xie. ISCA: 2015
+&lt;a href=&quot;/files/Leveraging Emerging Nonvolatile Memory in High-Level Synthesis with Loop Transformations.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Hi-fi Playback Tolerating Position Errors in Shift Operations of Racetrack Memory&lt;/div&gt;
+    &lt;p&gt;Chao Zhang, Guangyu Sun, Xian Zhang, Weiqi Zhang, Weisheng Zhao, Tao Wang, Yun Liang, Yongpan Liu, Yu Wang, Jiwu Shu. ISCA: 2015
+&lt;a href=&quot;/files/Hi-fi Playback Tolerating Position Errors in Shift Operations of Racetrack Memory.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Design Exploration of Inrush Current Aware Nonvolatile Controller for Nonvolatile Processor&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Fang Suy, Zhibo Wangy, Huazhong Yang. NVMSA: 2015
+&lt;a href=&quot;/files/Design Exploration of Inrush Current Aware Nonvolatile Controller for Nonvolatile Processor.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Fixing the Broken Time Machine Consistency-Aware Checkpointing for Energy Harvesting Powered Non-Volatile Processor&lt;/div&gt;
+    &lt;p&gt;Mimi Xie, Mengying Zhao, Chen Pan, Jingtong Hu, Yongpan Liu, Xue, C.J. DAC: 2015
+&lt;a href=&quot;/files/Fixing the Broken Time Machine Consistency-Aware Checkpointing for Energy Harvesting Powered Non-Volatile Processor.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Deadline-aware Task Scheduling for Solar-powered Nonvolatile Sensor Nodes with Global Energy Migration&lt;/div&gt;
+    &lt;p&gt;Daming Zhang, Yongpan Liu, Xiao Sheng, Jinyang Li, Tongda Wu, Xue, C.J., Huazhong Yang. DAC: 2015
+&lt;a href=&quot;/files/Deadline-aware Task Scheduling for Solar-powered Nonvolatile Sensor Nodes with Global Energy Migration.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Compiler Directed Automatic Stack Trimming for Efficient Non-Volatile Processors&lt;/div&gt;
+    &lt;p&gt;Qingan Li, Mengying Zhao, Jingtong Hu, Yongpan Liu, Yanxiang He, Xue, C.J. DAC: 2015
+&lt;a href=&quot;/files/Compiler Directed Automatic Stack Trimming for Efficient Non-Volatile Processors.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A STT-RAM-based Low-Power Hybrid Register File for GPGPUs&lt;/div&gt;
+    &lt;p&gt;Gushu Li, Xiaoming Chen, Guangyu Sun, Hoffmann, H., Yongpan Liu, Yu Wang, Huazhong Yang. DAC: 2015
+&lt;a href=&quot;/files/A STT-RAM-based Low-Power Hybrid Register File for GPGPUs.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;An Energy-efficient Heterogeneous Dual-Core Processor for Internet of Things&lt;/div&gt;
+    &lt;p&gt;Zhibo Wang, Yongpan Liu, Yinan Sun, Yang Li, Daming Zhang, Huazhong Yang. ISCAS: 2015, 2301 - 2304
+&lt;a href=&quot;/files/An Energy-efficient Heterogeneous Dual-Core Processor for Internet of Things.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Ambient Energy Harvesting Nonvolatile Processors: From Circuit to System&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Zewei Li, Hehe Li, Yiqun Wang, Xueqing Li, Kaisheng Ma, Shuangchen Li, Meng-Fan Chang, Sampson John, Yuan Xie, Jiwu Shu, Huazhong Yang. DAC: 2015
+&lt;a href=&quot;/files/Ambient Energy Harvesting Nonvolatile Processors From Circuit to System.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Nonvolatile Memory Allocation and Hierarchy Optimization for High-Level Synthesis&lt;/div&gt;
+    &lt;p&gt;Shuangchen Li Yongpan Liu Ang Li Yuan Xie Huazhong Yang. ASP-DAC: 2015
+&lt;a href=&quot;/files/Nonvolatile Memory Allocation and Hierarchy Optimization for High-level Synthesis.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;From Device To System Cross-Layer Design Exploration of Racetrack Memory&lt;/div&gt;
+    &lt;p&gt;Guangyu Sun, Chao Zhang, Hehe Li, Yue Zhang, Weiqi Zhang, Yizi Gu, Yinan Sun, Klein, J.-O., Ravelosona, D., Yongpan Liu, Weisheng Zhao, Huazhong Yang. DATE: 2015
+&lt;a href=&quot;/files/From Device To System Cross-Layer Design Exploration of Racetrack Memory.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Software Assisted Non-volatile Register Reduction for Energy Harvesting Based Cyber-Physical System&lt;/div&gt;
+    &lt;p&gt;Mengying Zhao, Qingan Li, Mimi Xie, Yongpan Liu, Jingtong Hu, Chun Jason Xue. DATE: 2015
+&lt;a href=&quot;/files/Software Assisted Non-volatile Register Reduction for Energy Harvesting Based Cyber-Physical System.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Architecture Exploration for Ambient Energy Harvesting Nonvolatile Processors&lt;/div&gt;
+    &lt;p&gt;Kaisheng Ma, Yang Zheng, Shuangchen Li, Karthik Swaminathan, Xueqing Li, Yongpan Liu, Jack Sampson, Yuan Xie, Vijaykrishnan Narayanan. HPCA (Best Paper Candidate): 2015
+&lt;a href=&quot;/files/Architecture Exploration for Ambient Energy Harvesting Nonvolatile Processors.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;An Energy Efficient Backup Scheme with Low Inrush Current for Nonvolatile SRAM in Energy Harvesting Sensor Nodes&lt;/div&gt;
+    &lt;p&gt;Li Hehe, Yongpan Liu. DATE: 2015 
+&lt;a href=&quot;/files/An Energy Efficient Backup Scheme with Low Inrush Current for Nonvolatile Sram in Energy Harvesting Sensor Nodes.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Intra-task Scheduling for Storage-less and Converter-less Solar-Powered Nonvolatile Sensor Nodes&lt;/div&gt;
+    &lt;p&gt;Daming Zhang, Shuangchen Li, Ang Li, Yongpan Liu, X.Sharon Hu, Huazhong Yang. ICCD: 2014 ,1-6
+&lt;a href=&quot;/files/Intra-task Scheduling for Storage-less and Converter-less Solar-Powered Nonvolatile Sensor Nodes.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Challenges at Circuit Designs for Resistive Type Nonvolatile Memory and Nonvolatile Logics in Mobile and Cloud Applications&lt;/div&gt;
+    &lt;p&gt;Meng-Fan Chang, Albert Lee, Chia-Chen Kuo, Shyh-Shyuan Sheu, Tzu-Ken Ku, Yongpan Liu, Huazhong Yang, Ping-Cheng Chen. ICSICT: 2014 ,1-6&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A High-Efficiency Dual-Channel Photovoltaic Power System for Nonvolatile Sensor Nodes&lt;/div&gt;
+    &lt;p&gt;Xiao Sheng, Cong Wang, Yongpan Liu, Hyung Gyu Lee, Naehyuck Chang and Huazhong Yang. NVMSA: 2014 ,1-2
+&lt;a href=&quot;/files/A High-Efficiency Dual-Channel Photovoltaic Power System for Nonvolatile Sensor Nodes.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;PaCC: A Parallel Compare and Compress Codec for Area Reduction in Nonvolatile Processors&lt;/div&gt;
+    &lt;p&gt;Yiqun Wang and Yongpan Liu and Shuangchen Li and Xiao Sheng and Daming Zhang and Mei-Fang Chiang and Baiko Sai and Hu, X.S. and Huazhong Yang. Very Large Scale Integration (VLSI) Systems, IEEE Transactions on: 2014 ,VOL. 22, NO. 7 ,1491-1505&lt;a href=&quot;/files/APaCC A Parallel Compare and Compress Codec for Area Reduction in Nonvolatile Processors.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A Novel Hybrid Storage Architecture for Nonvolatile FPGA&lt;/div&gt;
+    &lt;p&gt;Zewei Li, Yongpan Liu, Huazhong Yang. EDSSC: 2014 ,1-6&lt;a href=&quot;/files/A Novel Hybrid Storage Architecture for Nonvolatile FPGA.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Using Nonvolatile Processors to Reduce Leakage in Power Management Approaches&lt;/div&gt;
+    &lt;p&gt;Hehe Li, Yongpan Liu, Yiqun Wang, Rong Luo, Huazhong Yang. EDSSC: 2014 ,1-4&lt;a href=&quot;/files/Using Nonvolatile Processors to Reduce Leakage in Power Management Approaches.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Register Allocation for Hybrid Register Architecture in Nonvolatile Processors&lt;/div&gt;
+    &lt;p&gt;Yiqun Wang, Hongyang Jia, Yongpan Liu, Qingan Li, Chun Jason Xue, Huazhong Yang. ISCAS: 2014 ,1050 - 1053
+&lt;a href=&quot;/files/Register Allocation for Hybrid Register Architecture in Nonvolatile Processors.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Storage-less and Converter-less Maximum Power Point Tracking of Photovoltaic Cells for A Nonvolatile Microprocessor&lt;/div&gt;
+    &lt;p&gt;Cong Wang, Naehyuck Chang, Younghyun Kim, Sangyoung Park, Yongpan Liu, Hyung Gyu Lee, Rong Luo, Huazhong Yang. ASP-DAC: 2014 ,379-384
+&lt;a href=&quot;/files/Storage-less and converter-less maximum power point tracking of photovoltaic cells for a nonvolatile.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;An Energy Efficient Fully Integrated OOK Transceiver SoC for Wireless Body Area Networks&lt;/div&gt;
+    &lt;p&gt;Bo Zhao, Yinan Sun, Wei Zou, Yong Lian, Yongpan Liu, and Huazhong Yang. A-SSCC: 2013 ,441-444
+&lt;a href=&quot;/files/An Energy Efficient Fully Integrated OOK Transceiver SoC for Wireless Body Area Networks.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Optimal Partition with Block-Level Parallelization in C-to-RTL Synthesis for Streaming Applications&lt;/div&gt;
+    &lt;p&gt;Shuangchen Li, Yongpan Liu, X.Sharon Hu, Xinyu He, Pei Zhang, and Huazhong Yang. ASP-DAC: 2013 ,225-230
+&lt;a href=&quot;/files/Optimal Partition with Block-Level Parallelization in C-to-RTL Synthesis for Streaming Applications.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Utilizing Voltage-Frequency Islands in C-to-RTL Synthesis for Streaming Applications&lt;/div&gt;
+    &lt;p&gt;Xinyu He, Shuangchen Li, Yongpan Liu, X.Sharon Hu, and Huazhong Yang. DATE: 2013 ,992-995
+&lt;a href=&quot;/files/Utilizing Voltage-Frequency Islands in C-to-RTL Synthesis for Streaming Applications.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;SPaC: A Segment-based Parallel Compression for Backup Acceleration in Nonvolatile Processors&lt;/div&gt;
+    &lt;p&gt;Xiao Sheng, Yiqun Wang, Yongpan Liu, Huazhong Yang. DATE: 2013 ,865-868
+&lt;a href=&quot;/files/SPaC A Segment-based Parallel Compression for Backup Acceleration in Nonvolatile Processors.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Energy Efficient A/D Conversion for Sequential Wideband Multichannel Spectrum Sensing in Cognitive Radio Network&lt;/div&gt;
+    &lt;p&gt;Zhengpeng Liu, Yongpan Liu, Huazhong Yang. ICACT: 2013 ,580 - 585
+&lt;a href=&quot;/files/Energy Efficient AID Conversion for Sequential.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A 3us Wakeup Time Nonvolatile Processor Based on Ferroelectric Flip-Flops&lt;/div&gt;
+    &lt;p&gt;Yiqun Wang, Yongpan Liu, Shuangchen Li, Daming Zhang, Baiko Sai, Meifang Jiang, Yanxin Yan, Huazhong Yang. ESSCIRC: 2012 ,149-152
+&lt;a href=&quot;/files/A 3us Wakeup Time Nonvolatile Processor Based on Ferroelectric Flip-Flops.pdf&quot;&gt; Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;An Ultra Energy Efficient Nonvolatile Processor for Self-powered Sensor Platforms&lt;/div&gt;
+    &lt;p&gt;Yiqun Wang, Yongpan Liu, Shuangchen Li, Daming Zhang, Hongyang Jia, Huazhong Yang, Mei-fang Chiang, Yan-xin Yan and Baiko Sai. ISLPED Design Contest Award: 2012&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Utilizing PCM for Energy Optimization in Embedded Systems&lt;/div&gt;
+    &lt;p&gt;Zili Shao, Yongpan Liu, Yiran Chen, Tao Li. ISVLSI: 2012 ,398-403
+&lt;a href=&quot;/files/Utilizing PCM for Energy Optimization in Embedded Systems.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Rapid Design Methodology for Accelerator based Wireless Sensor Nodes in Structure Health Monitoring&lt;/div&gt;
+    &lt;p&gt;Daming Zhang, Yongpan Liu, Shuangchen Li, Huazhong Yang. ICETCE: 2012 ,3366-3369
+&lt;a href=&quot;/files/Rapid Design Methodology for Accelerator-based Wireless Sensor Nodes in Structure Health Monitoring.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;An Energy Harvesting Nonvolatile Sensor Node and Its Application to Distributed Moving Object Detection&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Yiqun Wang, Hongyang Jia, Shan Su, Jinghuan Wen, Wenzhu Zhang, Lin Zhang, Huazhong Yang. IPSN:  2012
+&lt;a href=&quot;/files/An Energy Harvesting Nonvolatile Sensor Node and Its Application to Distributed Moving Object Detection.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Lifetime-Aware Battery Allocation for Wireless Sensor Network under Cost Constraints&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Yiqun Wang, Hengyu Long, Huazhong Yang. IEICE Trans. On Communication: 2012 ,VOL.E95-B,NO.5
+&lt;a href=&quot;/files/Lifetime-Aware Battery Allocation for Wireless Sensor Network under Cost Constraints.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A Compression-based Area-efficient Recovery Architecture for Nonvolatile Processors&lt;/div&gt;
+    &lt;p&gt;Yiqun Wang, Yongpan Liu, Yumeng Liu, Daming Zhang, Shuangchen Li, Baiko Sai, Mei-Fang Chiang, and Huazhong Yang. DATE: 2012 ,1519-1524
+&lt;a href=&quot;/files/A compression-based area-efficient recovery architecture for nonvolatile processors.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A Hierarchical C2RTL Framework for FIFO-connected Stream Applications&lt;/div&gt;
+    &lt;p&gt;Shuangchen Li, Yongpan Liu, Daming Zhang, Xinyu He, Pei Zhang, and Huazhong Yang. ASP-DAC: 2012 ,133-138
+&lt;a href=&quot;/files/A Hierarchical C2RTL Framework for FIFO-connected Stream Applications.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Design Methodology of Multistage Time-domain Logic Speculation Circuits&lt;/div&gt;
+    &lt;p&gt;Yinan Sun, Yongpan Liu, Xiaohan, Wang, Hongliang Xu, Huazhong Yang. ISCAS: 2011 ,1944-1947
+&lt;a href=&quot;/files/Design Methodology of Multistage Time-domain Logic Speculation Circuits.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;An Energy Efficient Sensor Network Processor with Latency-Aware Adaptive Compression&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu，Shuangchen Li, Jue Wang, Huazhong Yang. IEICE Trans. on Electronics: 2011 ,VOl.E94-C,NO.7 ,1220-1228
+&lt;a href=&quot;/files/An Energy Efficient Sensor Network Processor with Latency-Aware Adaptive Compression.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A Compare- and-write Ferroelectric Nonvolatile Flip-Flop for Energy-Harvesting Applications&lt;/div&gt;
+    &lt;p&gt;Jue Wang, Yongpan Liu, Huazhong Yang and Hui Wang. ICGCS: 2010 ,646-650
+&lt;a href=&quot;/files/A Compare-and-write Ferroelectric Nonvolatile Flip-Flop for Energy-Harvesting Applications.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Design Methodology of Variable Latency Adders with Multistage Function Speculation&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Yinan Sun, Yihao Zhu, Huazhong Yang. ISQED: 2010 ,824-830
+&lt;a href=&quot;/files/Design Methodology of Variable Latency Adders with Multistage Function Speculation.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Acceleration of Pedestrian Detection Algorithm on Novel C2RTL HW/SW Co-design Platform&lt;/div&gt;
+    &lt;p&gt;Yihao Zhu, Yongpan Liu, Daming Zhang, Shuangchen Li, Pei Zhang, Tedd Hadley. ICGCS: 2010 ,615-620
+&lt;a href=&quot;/files/Acceleration of Pedestrian Detection Algorithm on Novel C2RTL HWSW Co-design Platform.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Risk Management in Smart Civil Infrastructure&lt;/div&gt;
+    &lt;p&gt;Xiaohui Cheng, Hongxian Guo, Yongpan Liu, Huazhong Yang. ICGCS: 2010 ,655-659
+&lt;a href=&quot;/files/Risk Management in Smart Civil Infrastructure.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Temperature-Aware Leakage Estimation Using Piecewise Linear Power Models&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Huazhong Yang. IEICE Trans. on Electronics: 2010 ,VOL.E93-C.NO.12 ,1679-1691
+&lt;a href=&quot;/files/Temperature-Aware Leakage Estimation Using Piecewise Linear Power Models.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Lightweight Precision-Adaptive Time Synchronization in Wireless Sensor Networks&lt;/div&gt;
+    &lt;p&gt;Li Li, Yongpan Liu, Huazhong Yang, and Hui Wang. IEICE Trans. on Communication: 2010 ,VOL.E93-B.NO.9 ,2299-2308
+&lt;a href=&quot;/files/Lightweight Precision-Adaptive Time Synchronization in Wireless Sensor Networks.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Evaluation of Tunable Data Compression in Energy-Aware Wireless Sensor Networks&lt;/div&gt;
+    &lt;p&gt;Beihua Ying, Yongpan Liu, Huazhong Yang and Hui Wang. Sensors: 2010 ,VOL10 ,3195-3217
+&lt;a href=&quot;/files/Evaluation of Tunable Data Compression in Energy-Aware Wireless Sensor Networks.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;An Ultra-Low-Supply Dual-Band VCO for Wireless Sensor Networks&lt;/div&gt;
+    &lt;p&gt;Bo Zhao, Yongpan Liu, Pengpeng Chen, Tao Chen, Huazhong Yang, Hui Wang. ICCCAS: 2009 ,797-801
+&lt;a href=&quot;/files/An Ultra-Low-Supply Dual-Band VCO for Wireless Sensor Networks.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Battery Allocation for Wireless Sensor Network Lifetime Maximization Under Cost Constraints&lt;/div&gt;
+    &lt;p&gt;Hengyu Long, Yongpan Liu, Yiqun Wang, Robert P. Dick, Huazhong Yang. ICCAD: 2009 ,705-712
+&lt;a href=&quot;/files/Battery allocation for wireless sensor network lifetime maximization under cost constraints.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Energy Efficient Architecture of Sensor Network Node Based on Compression Accelerator&lt;/div&gt;
+    &lt;p&gt;Jue Wang, Beihua Ying, Yongpan Liu, Huazhong Yang, Hui Wang. GLS-VLSI: 2009 ,177-120
+&lt;a href=&quot;/files/Energy Efficient Architecture of Sensor Network Node Based on Compression Accelerator.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Acceleration Of Pedestrian Detection Algorithm on Multi-Core Vehicle Computing Platform&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Yihao Zhu, Sunny Zhang, Senjie Zhang, Huazhong Yang. Information, Computing and Telecommunications: 2009 ,208-211
+&lt;a href=&quot;/files/Acceleration of pedestrian detection algorithms on a multi-core vehicle computing platform.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Energy-Efficient Spatially-Adaptive Clustering and Routing in Wireless Sensor Networks&lt;/div&gt;
+    &lt;p&gt;Hengyu Long, Yongpan Liu, Robert P. Dick, Huazhong Yang. DATE: 2009 ,1267-1272
+&lt;a href=&quot;/files/Energy-Efficient Spatially-Adaptive Clustering and Routing in Wireless Sensor Networks.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;A Precision Adaptive  Average  Time  Synchronization Protocol  in  Wireless  Sensor  Network&lt;/div&gt;
+    &lt;p&gt;Li Li, Yongpan Liu, Huazhong Yang and Hui Wang. ICIA: 2008, 65 - 70
+&lt;a href=&quot;/files/A Precision Adaptive  Average  Time  Synchronization Protocol  in  Wireless  Sensor  Network.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Accurate Temperature-Dependent Integrated Circuit Leakage Power Estimation is Easy&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Robert Dick, Li Shang, Huazhong Yang. DATE: 2007 ,1-6
+&lt;a href=&quot;/files/Accurate Temperature-Dependent Integrated Circuit Leakage Power Estimation is Easy.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Thermal vs Energy Optimization for DVFS-enabled Processors in Embedded Systems&lt;/div&gt;
+    &lt;p&gt;Yongpan Liu, Huazhong Yang, Robert Dick, Hui Wang, Li Shang. ISQED: 2007 ,204-209
+&lt;a href=&quot;/files/Thermal vs Energy Optimization for DVFS-enabled Processors in Embedded Systems.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;color1&quot;&gt;Two-phase Fine-grain Sleep Transistor Insertion Technique in Leakage Critical Circuits.pdf&lt;/div&gt;
+    &lt;p&gt;Yu Wang; Yongpan Liu; Rong Luo; Huazhong Yang; Hui Wang. ISLPED: 2006
+&lt;a href=&quot;/files/Two-phase Fine-grain Sleep Transistor Insertion Technique in Leakage Critical Circuits.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 17 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//Publication</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//Publication</guid>
+        
+        
+        <category>publication</category>
+        
+      </item>
+    
+      <item>
+        <title>FACULTY</title>
+        <description>&lt;div class=&quot;site-sidebar&quot;&gt;
+          &lt;img src=&quot;/images/yongpanliu.jpeg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;font2&quot;&gt;Yongpan Liu (Professor)&lt;/div&gt;
+</description>
+        <pubDate>Thu, 17 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//2015/09/17/people.html</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//2015/09/17/people.html</guid>
+        
+        <category>people</category>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;br /&gt;(05/2000)&lt;strong&gt;[something important]&lt;/strong&gt;the 5th NVP is released
+&lt;br /&gt;(04/2000)&lt;strong&gt;[something important]&lt;/strong&gt;the 4th NVP is released
+&lt;br /&gt;(03/2000)&lt;strong&gt;[something important]&lt;/strong&gt;the 3rd NVP is released
+&lt;br /&gt;(02/2000)&lt;strong&gt;[something important]&lt;/strong&gt;the 2nd NVP is released
+&lt;br /&gt;(01/2000)&lt;strong&gt;[something important]&lt;/strong&gt;the first NVP is released&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//news/2015/09/17/news.html</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//news/2015/09/17/news.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;not ready now&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//Cources</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//Cources</guid>
+        
+        <category>courses</category>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Sponsors?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;co-wokers?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Copyright statement of this website
+&lt;br /&gt;this website is adapted from &lt;a href=&quot;http://jekyllthemes.org/themes/yellowblue/&quot;&gt;“Yellowblue”&lt;/a&gt; at &lt;a href=&quot;https://github.com/chalatz/yellowblue&quot;&gt;github&lt;/a&gt;
+&lt;br /&gt;“Yellowblue” is designed by &lt;a href=&quot;https://twitter.com/chalatz&quot; title=&quot;Christos Alatzas twitter page&quot;&gt;Christos Alatzas&lt;/a&gt;, powered by &lt;a href=&quot;http://www.jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 17 Sep 2015 02:19:27 +0800</pubDate>
+        <link>http://yjs1994.github.io/yjs//yjs//2015/09/17/acknowlegement.html</link>
+        <guid isPermaLink="true">http://yjs1994.github.io/yjs//yjs//2015/09/17/acknowlegement.html</guid>
+        
+        <category>acknowlegement</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
